@@ -1,3 +1,9 @@
+sugar-fractionbounce-activity (22-1~0tch1) trusty; urgency=medium
+
+  * Removed dependency on a specific sugar-artwork theme.
+
+ -- Martin Abente Lahaye <tch@sugarlabs.org>  Tue, 21 Jul 2015 09:48:56 -0400
+
 sugar-fractionbounce-activity (22-0tch1) UNRELEASED; urgency=low
 
   * Initial release for Debian. 
